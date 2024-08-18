@@ -8,7 +8,7 @@ Run the following commands in the root directory of the project:
 1. docker compose build
 2. docker compose up -d
 
-The application will start running on `http://localhost:5000`.
+The application will start running on `http://localhost:5000/api`.
 
 
 # Run locally
@@ -30,4 +30,4 @@ Run `npm install` in the root directory of the project. This will install all th
 ## Run the application
 
 Run `npm start` in the root directory of the project.
-The application will start running on `http://localhost:5000`.# guestara
+The application will start running on `http://localhost:5000/api`.# guestara
