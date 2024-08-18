@@ -9,7 +9,7 @@ const options = {
       description: 'A simple Express API application documented with Swagger',
     },
   },
-  apis: ['src/routes/category.routes.js', 'src/routes/items.routes.js','src/routes/subcategory.routes.js'],
+  apis: ['api/routes/category.routes.js', 'api/routes/items.routes.js','api/routes/subcategory.routes.js'],
 };
 
 const swaggerDocs = swaggerJsdoc(options);
